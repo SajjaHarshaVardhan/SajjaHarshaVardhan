@@ -10,7 +10,7 @@
   <a href="https://github.com/SajjaHarshaVardhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/sajja-harsha-vardhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsha-vardhan-sajja-harsha-0b8b662b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sajjaharshavardhan20@gmail.com">
@@ -327,7 +327,7 @@ public class HarshaVardhan {
 I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology and backend development!
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/sajja-harsha-vardhan/">LinkedIn</a> •
+  💼 <a href="https://www.linkedin.com/in/harsha-vardhan-sajja-harsha-0b8b662b3">LinkedIn</a> •
   💻 <a href="https://github.com/SajjaHarshaVardhan">GitHub</a> •
   📧 <a href="mailto:sajjaharshavardhan20@gmail.com">Email</a> •
   📱 <a href="https://wa.me/917013935628">WhatsApp</a>
