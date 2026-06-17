@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-  Java Backend Developer | Spring Boot Specialist | REST APIs • Microservices | Student Developer
+  Java Backend Developer | Spring Boot | REST APIs | Final Year B.Tech | LeetCode Enthusiast 💻
 </h3>
 
 <p align="center">
   <a href="https://github.com/SajjaHarshaVardhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-sajja-harsha-0b8b662b3" target="_blank">
+  <a href="https://www.linkedin.com/in/sajja-harsha-vardhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sajjaharshavardhan20@gmail.com">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshavardhan-sajja&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SajjaHarshaVardhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -182,25 +182,42 @@ public class HarshaVardhan {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan-sajja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan-sajja&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajjaHarshaVardhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjaHarshaVardhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan-sajja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjaHarshaVardhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
-- 💼 **7+ months** of professional project-based development experience
-- 🎯 Built **scalable backend architectures** with Spring Boot and REST APIs
-- ⚡ **Optimized system performance by 30%** through API and database optimization
-- 📊 Processed **10,000+ concurrent requests** with **99.5% uptime**
-- 🧪 Achieved **80% code coverage** in unit testing
-- 💾 Designed **normalized MySQL databases** with proper indexing strategies
-- 📚 Created **well-documented repositories** to help other developers learn
+- 🎯 **Multiple project experience** - Built 3+ full-stack applications from scratch
+- 💻 **Active LeetCode contributor** - Solving problems daily to master DSA concepts
+- ⚡ **Performance optimization** - Achieved 30% improvement in API response times
+- 🧪 **Quality-focused development** - Achieved 80% code coverage in unit testing
+- 💾 **Database expert** - Designed normalized MySQL schemas with proper indexing
+- 🚀 **Scalable architectures** - Built systems handling 10,000+ records efficiently
+- 📚 **Well-documented code** - Created repositories that serve as learning resources
+- 🔐 **Best practices** - Implemented SOLID principles and design patterns
+
+---
+
+## 💻 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/sajjaharshavardhan20/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+- 🧠 **Active Problem Solver** - Consistent daily practice on LeetCode
+- 📊 **Data Structures & Algorithms** - Mastering DSA through problem-solving
+- 🎯 **Interview Preparation** - Building strong foundation for technical interviews
+- ⚡ **Optimization Focus** - Learning algorithmic optimization techniques
+- 📈 **Progress Tracking** - Regular practice to improve problem-solving skills
 
 ---
 
@@ -209,15 +226,22 @@ public class HarshaVardhan {
 ### Current Education
 - 🎓 **B.Tech in Electronics and Communication Engineering**
   - PBR Visvodaya Institute of Technology and Science
-  - Aug 2023 – May 2026 (Final Year)
-  - Relevant Coursework: OOP, Data Structures, DBMS, Web Development
+  - Aug 2023 – May 2026 (Final Year - Graduating May 2026)
+  - Relevant Coursework: OOP, Data Structures, DBMS, Web Development, Software Engineering
 
-### Continuous Learning
-- 📚 Advanced Java and Spring Boot Development (In Progress)
+### Previous Education
+- 📚 **Diploma in Engineering**
+  - Government Polytechnic, Chandragiri
+  - Aug 2020 – May 2023
+  - Stream: Electronics and Communication Engineering
+
+### Self-Learning & Development
+- 📚 Spring Boot & REST API Development (Self-Taught)
+- 📚 Advanced Database Design & Query Optimization
+- 📚 LeetCode DSA Preparation (Ongoing)
 - 📚 Cloud Computing (AWS) - EC2, S3, RDS Fundamentals
-- 📚 Microservices Architecture and Docker Containerization
-- 🎯 Generative AI and Large Language Models (LLMs)
-- 🎯 Machine Learning Fundamentals
+- 📚 Microservices Architecture & Docker Containerization
+- 🎯 System Design Patterns
 
 ---
 
@@ -250,32 +274,51 @@ public class HarshaVardhan {
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🚀 What I'm Currently Working On
 
-- 🔨 Building advanced Spring Boot projects with microservices patterns
-- 📚 Exploring AWS cloud services for scalable applications
-- 🐳 Learning Docker and Kubernetes for containerization
-- 🤖 Researching Generative AI and LLM applications
-- 📖 Contributing to open-source projects and documentation
+- 🔨 **Building multiple Spring Boot projects** with real-world use cases
+- 💻 **Daily LeetCode practice** - Strengthening DSA and problem-solving skills
+- 📚 **System design learning** - Understanding scalable architecture patterns
+- 🐳 **Docker & containerization** - Exploring deployment strategies
+- 📖 **Contributing to projects** - Building portfolio with quality code
+- 🎯 **Interview preparation** - Getting ready for placement and job opportunities
 
 ---
 
 ## 🎯 My Professional Goals
 
-- **Short-term:** Secure a challenging Backend Developer role to apply and expand technical expertise
-- **Mid-term:** Master cloud technologies (AWS, Docker, Kubernetes) and microservices architecture
-- **Long-term:** Transition into full-stack or cloud architecture roles
-- **Overall:** Build high-performance, scalable solutions that impact millions of users
+- **Immediate (Before Graduation):**
+  - Complete placement process with a reputable company
+  - Build 5+ projects showcasing diverse technical skills
+  - Solve 200+ LeetCode problems
+
+- **Short-term (First Year):**
+  - Secure a Junior Java Backend Developer role
+  - Master Spring Boot ecosystem and REST API design
+  - Contribute to production-grade applications
+
+- **Mid-term (2-3 Years):**
+  - Become proficient in cloud technologies (AWS, Docker, Kubernetes)
+  - Understand microservices architecture and system design
+  - Lead technical projects with scalability focus
+
+- **Long-term:**
+  - Transition into senior backend architect or full-stack roles
+  - Build high-performance, scalable solutions serving millions of users
+  - Mentor junior developers and contribute to tech community
 
 ---
 
-## 💡 Fun Facts
+## 💡 Fun Facts About Me
 
-- 🔧 I love optimizing code for performance and scalability
-- 📖 Passionate about clean code and software engineering best practices
-- 🌱 Always learning and exploring new technologies
-- ⚡ Problem-solving enthusiast - love tackling complex technical challenges
-- 🎯 Motivated by building systems that solve real-world problems
+- 🔧 I love optimizing code and designing efficient algorithms
+- 💻 Daily LeetCode solver - solving problems is my morning routine!
+- 📖 Passionate about clean code and learning best practices from real projects
+- 🌱 Constantly exploring new technologies and pushing my boundaries
+- ⚡ Problem-solving enthusiast - excited by technical challenges
+- 🎯 Driven by building real-world solutions that matter
+- 🚀 Belief: "Every project is a learning opportunity"
+- ☕ Coffee-driven developer (or sometimes energy drinks while solving LeetCode!)
 
 ---
 
@@ -284,8 +327,8 @@ public class HarshaVardhan {
 I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about technology and backend development!
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/harsha-vardhan-sajja/">LinkedIn</a> •
-  💻 <a href="https://github.com/harshavardhan-sajja">GitHub</a> •
+  💼 <a href="https://www.linkedin.com/in/sajja-harsha-vardhan/">LinkedIn</a> •
+  💻 <a href="https://github.com/SajjaHarshaVardhan">GitHub</a> •
   📧 <a href="mailto:sajjaharshavardhan20@gmail.com">Email</a> •
   📱 <a href="https://wa.me/917013935628">WhatsApp</a>
 </p>
@@ -293,11 +336,11 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: I optimized an API to achieve 30% performance improvement and reduced manual errors from 15% to 0% through automation!</i>
+  <i>⚡ Fresher with passion • LeetCode solver • Multiple projects • Ready to make impact!</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Crafting+scalable+backends+with+Java+%26+Spring+Boot+%F0%9F%9A%80;Building+high-performance+APIs+%26+systems+%F0%9F%94%A7;Let's+code+something+amazing+today!+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Building+backends+with+Java+%26+Spring+Boot+%F0%9F%9A%80;Solving+problems+on+LeetCode+daily+%F0%9F%92%BB;Let's+build+amazing+things+together!+%F0%9F%92%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
